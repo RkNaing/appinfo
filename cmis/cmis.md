@@ -3,7 +3,7 @@
 | ![](Login.png)  | ![](nav.png)  |
 |---|---|
 | Login | Main Navigation Drawer |
-|  ![](patients.png) | ![](search_filter.png)  |
+|  ![](Patients.png) | ![](search_filter.png)  |
 | Patients List  | Patients Search Filter  |
 |  ![](PatientReg.png)  | ![](patient_detail.png)  |
 | Patient Registration Form  | Patient Detail  |
